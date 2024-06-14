@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:adukuri.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:adukuri.github.io#ce411070a5b9d28cc2a163c99c95ea83640abec96eb649df3e975a7db1b7ec93",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:adukuri.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "pZ9v7c2-zgISF5iQqAmVnKxi-i1M3qS_n2ZdmYmFQ8k=",
+        "y": "xz1wRUgd_LzjUjV_P0Ne4WAzyJB0Jwpj9D1aqdQreac=",
+        "kid": "ce411070a5b9d28cc2a163c99c95ea83640abec96eb649df3e975a7db1b7ec93",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
