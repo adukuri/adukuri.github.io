@@ -6,15 +6,15 @@
   "id": "did:web:adukuri.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:adukuri.github.io#3d76aa89c1a80a56da48e3c78c600e99f1eeae29c5098f836feffb532ad2b12f",
+      "id": "did:web:adukuri.github.io#23ac13af687e987451a867ef39f74f7052634dd037a2429522da9e277c01e4de",
       "type": "JsonWebKey2020",
       "controller": "did:web:adukuri.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "G01Qw98cH6JiS6aZT9ho9T1AwuaXe7lR6a8szsPaiq0=",
-        "y": "aVrfOCJGqs_IECEJUYkF7H2VBsq3vTlg3Qaqk5KRHvc=",
-        "kid": "3d76aa89c1a80a56da48e3c78c600e99f1eeae29c5098f836feffb532ad2b12f",
+        "x": "0OrrKDf6T5gRTEHyzNoT2iZftpPTGchSc5LIO7VPfa0=",
+        "y": "RtDViSZcJTa8wYQxUI0eCQjsK2xIkBHyd3W_3sLW2ag=",
+        "kid": "23ac13af687e987451a867ef39f74f7052634dd037a2429522da9e277c01e4de",
         "alg": "ES256"
       }
     }
